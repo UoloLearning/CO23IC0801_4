@@ -1,5 +1,6 @@
-public class Sum {
-    public static void main(String[] args) {
-        System.out.println(24+26);
+public class Welcome {
+    public static void main(String[] args) { 
+        System.out.print("Welcome to the world of Java!");
+        System.out.print("Hope you are having fun!"); 
     }
 }

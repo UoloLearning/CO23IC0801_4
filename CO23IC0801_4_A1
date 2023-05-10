@@ -1,6 +1,5 @@
-public class Names {
+public class Area {
     public static void main(String[] args) {
-        System.out.println("My name is "+ "John");
-        System.out.println("My best friend's name is "+"Adam");
+        System.out.print("Area of rectangle = " + 5 * 10);
     }
 }
